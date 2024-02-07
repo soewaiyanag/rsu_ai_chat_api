@@ -10,7 +10,7 @@ require('dotenv').config();
 const MODEL_NAME = "gemini-pro";
 const API_KEY = process.env.GOOGLE_API_KEY;
 
-async function runChat() {
+async function get_response(prompt) {
     const genAI = new GoogleGenerativeAI(API_KEY);
     const model = genAI.getGenerativeModel({model: MODEL_NAME});
 
@@ -96,10 +96,9 @@ async function runChat() {
         ]
     });
 
-    const prompt = process.argv[2];
     const result = await chat.sendMessage(prompt);
     const response = result.response;
     return response.text();
 }
 
-runChat().then(res => console.log(res));
+module.exports = get_response;
