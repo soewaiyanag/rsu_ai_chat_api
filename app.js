@@ -51,7 +51,8 @@ async function runChat() {
             {
                 "role": "model",
                 "parts": ["Greetings, I will remember that and give you responses based on that."]
-            },            {
+            },
+            {
                 "role": "user",
                 "parts": ["This is the academic requirements for Rangsit University postgraduate Entries" + data.postgradate_requirements]
             },
@@ -59,10 +60,35 @@ async function runChat() {
                 "role": "model",
                 "parts": ["OK, I will remember that and give you responses based on that."]
             },
+            {
+                "role": "user",
+                "parts": ["This is the information for transferring credits (credit transfer) in Rangsit University" + data.credit_transfer]
+            },
+            {
+                "role": "model",
+                "parts": ["OK, I will remember that and give you responses based on that."]
+            },
+            {
+                "role": "user",
+                "parts": ["Don't provide responses to questions that are not related to Rangsit University."]
+            },
+            {
+                "role": "model",
+                "parts": ["Sure! I will only respond to questions in the context of Rangsit University"]
+            },
+            {
+                "role": "user",
+                "parts": ["Don't provide additional responses; only give straight-to-the-point answers."]
+            },
+            {
+                "role": "model",
+                "parts": ["Sure! I will give straight-to-the-point responses."]
+            },
         ]
     });
 
-    const result = await chat.sendMessage("What is the minimum IELTS score for entry?");
+    const prompt = process.argv[2];
+    const result = await chat.sendMessage(prompt);
     const response = result.response;
     console.log(response.text());
 }

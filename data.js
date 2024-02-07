@@ -46,7 +46,36 @@ const data = {
         "\n" +
         "1. Completed an approved Bachelor Degree or its equivalent as recognized by the Thai Ministry of Education.\n" +
         "\n" +
-        "Note: Foundation courses may be required if the applicant's undergraduate degree is not related to the program they are applying for (e.g., Master of Education)."
+        "Note: Foundation courses may be required if the applicant's undergraduate degree is not related to the program they are applying for (e.g., Master of Education).",
+    credit_transfer: "Credit Transfer:\n" +
+        "\n" +
+        "1. Requirements for Credit Transfer:\n" +
+        "\n" +
+        "   - Students must fill out the Application Form for Request of Credit Transfer, available at https://www.rsuip.org/application-form/\n" +
+        "   - Submit the Application Form along with the Transcript of Records from previous institution(s) and detailed course descriptions of all subjects taken.\n" +
+        "   - Transcripts and other documentation in languages other than English must be translated by a certified translator and submitted with certified copies of the original documents.\n" +
+        "\n" +
+        "2. Evaluation of Credit Transfer:\n" +
+        "\n" +
+        "   - The Committee of Credit Transfer from the student's faculty will evaluate all subjects for credit transfer.\n" +
+        "   - Subjects eligible for credit transfer must have an exact equivalent credit value or higher and a completed grade of C or above.\n" +
+        "   - Students can transfer a maximum of 75% of the total credits for their current program.\n" +
+        "\n" +
+        "3. Processing Time for Credit Transfer:\n" +
+        "\n" +
+        "   - Typically takes about one month for the faculty to evaluate eligible subjects for credit transfer.\n" +
+        "   - After evaluation, the Registrar’s Office will approve the total number of credits that can be transferred.\n" +
+        "   - Students will be informed to report to the Registrar’s Office and pay a credit transfer fee of 300 Baht per credit of all approved subjects.\n" +
+        "\n" +
+        "4. Maximum Credit Load per Semester:\n" +
+        "\n" +
+        "   - Students can take a maximum credit-load of 21 credits per semester while awaiting the credit transfer result.\n" +
+        "   - Faculty can advise students on advanced subjects available in the coming semester, except for newly opened programs where advanced subjects may not be available.\n" +
+        "\n" +
+        "5. Credits Transferred:\n" +
+        "\n" +
+        "   - Transferred credits will appear on the student’s Transcript of Records by the following semester, with the same grade earned from the previous institution.\n" +
+        "   - Transferred subjects are not included in the calculation of the student’s current GPA."
 }
 
 module.exports = data;
