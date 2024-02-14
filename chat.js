@@ -87,17 +87,20 @@ async function createChat({ generationConfig, safetySettings, history }) {
   return model.startChat({
     generationConfig,
     safetySettings,
-    history: [...history],
+    history,
   });
 }
 
-const getChatInstance = (user_history = []) => {
+const getChatInstance = () => {
   const chat = createChat({
     generationConfig,
     safetySettings,
-    history: [...history, ...user_history],
+    history,
   });
   return chat;
 };
 
-module.exports = getChatInstance;
+module.exports = {
+  getChatInstance,
+  createChat,
+};
