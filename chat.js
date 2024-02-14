@@ -100,7 +100,4 @@ const getChatInstance = () => {
   return chat;
 };
 
-module.exports = {
-  getChatInstance,
-  createChat,
-};
+module.exports = getChatInstance;

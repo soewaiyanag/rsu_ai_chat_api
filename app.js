@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const { getChatInstance } = require("./chat");
+const getChatInstance = require("./chat");
 
 const app = express();
 const port = 3000;
