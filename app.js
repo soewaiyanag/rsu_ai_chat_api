@@ -1,6 +1,5 @@
 const PORT = 3000;
 const API_KEY = process.env.API_KEY;
-const API_URL = process.env.API_URL;
 const initialHistory = require("./initialHistory");
 const express = require("express");
 const cors = require("cors");
