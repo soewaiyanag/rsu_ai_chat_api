@@ -1,4 +1,28 @@
 const data = `
+**University Information:**
+
+- **Name:** Rangsit University (RSU)
+- **Motto:** สร้างสรรค์สิ่งที่ดีให้แก่สังคม (Creating the best for society)
+- **Type:** Private
+- **Established:** 1990 (originally established as Rangsit College in 1986)
+- **Affiliation:** ASAIHL (Association of Southeast Asian Institutions of Higher Learning)
+- **President:** Arthit Ourairat, PhD
+- **Location:** Mueang Pathum Thani, Pathum Thani (Greater Bangkok), Thailand
+- **Colors:** Blue and deep pink
+- **Nickname:** RSU
+- **Mascot:** Tiger
+- **Website:** [www2.rsu.ac.th/home](www2.rsu.ac.th/home)
+
+Rangsit University (RSU), known in Thai as มหาวิทยาลัยรังสิต, is a private university located in Pathum Thani, Thailand. It focuses primarily on music, design, information technology, and public health, including independent professions. RSU holds full accreditation from the Thai government's Commission on Higher Education of the Ministry of Education.
+
+The university's main campus spans a 296 rai (47.4 ha; 117 acres) site in the Lak-Hok sub-district of Mueang Pathum Thani District, Pathum Thani Province. Notably, Rangsit University is the sole private university rated "very good" among institutions focused on graduate education by the Office for National Education Standards and Quality Assessment.
+
+RSU offers a diverse range of programs, including 94 undergraduate programs, 37 master's degree programs, one graduate diploma, and nine doctoral degree programs across various colleges and faculties. These include the College of Medicine, College of Engineering, Conservatory of Music, Faculty of Nursing Science, Faculty of Law, and many others.
+
+Among Thailand's numerous universities and colleges, Rangsit University consistently ranks in the top 50 according to various independent academic rankings. For instance, EduRank places RSU as the top university in Pathum Thani, 18th in Thailand, and 3,060th globally in 2020. Additionally, Webometric Ranking of World Universities ranks RSU 20th in Thailand and 2,448th globally.
+
+Rangsit University boasts a collection of theme songs used in various university activities, including the Rangsit University March, Tawan Rung Rangsit, Blue Dream, and others. These songs contribute to the vibrant and spirited atmosphere of the university community.
+
 Undergraduate Academic Entry Requirements:
 1. Completed Upper Secondary School (M.6 Certificate) or its equivalent as recognized by the Thai Ministry of Education.
 2. Completed High School Grade 12 (US System).
@@ -497,6 +521,720 @@ IDIS Provides You the Best Education
     Recognized Worldwide
     Extraordinary International Experiences
 
+**CIVIL ENGINEERING PROGRAM**
+
+- **Award**: Bachelor of Engineering (Civil Engineering)
+- **Length**: 4 years
+- **Semester Commencement**: June (Summer), August (1st Semester), January (2nd Semester)
+- **Course Fees**: [Click here](link_to_fees)
+- **English Language Requirements**: 
+  - IELTS 5.5 or equivalent
+  - Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION/PURPOSE**
+
+- The program is approved and accredited by the Council of Engineers of Thailand (COE).
+- Aims to produce graduates skilled in surveying, design, construction management, and infrastructure planning.
+- Covers areas including structural engineering, soil and foundation engineering, water resource engineering, and construction management engineering.
+- Provides a foundation for further research and higher studies.
+
+**EMPLOYMENT OUTCOMES**
+
+- Graduates typically take the Professional Licensing Examination to become professional engineers.
+- Career prospects include design, project management, and research and development engineers in both private and public sectors.
+- Civil engineers play a pivotal role in infrastructure development and resource and environmental management.
+
+**COURSE STRUCTURE**
+
+- **Total Credits**: 150 credits
+
+**A. GENERAL EDUCATION COURSES (30 CREDITS)**
+
+- Humanities and Social Sciences: 9 credits
+- Sciences and Mathematics: 3 credits
+- Languages: 15 credits
+- Interdisciplinary and Physical Education: 3 credits
+
+**B. AREA COURSES (114 CREDITS)**
+
+**I. BASIC SCIENCE COURSES (21 CREDITS)**
+
+- Includes courses in Chemistry, Physics, and Engineering Mathematics.
+
+**II. BASIC PROFESSIONAL COURSES (32 CREDITS)**
+
+- Covers Engineering Drawing, Workshop Practice, Statics, Strength of Materials, Surveying, Hydraulics, and more.
+
+**III. PROFESSIONAL COURSES (59 CREDITS)**
+
+- In-depth courses on Civil Engineering Materials, Structural Analysis, Reinforced Concrete Design, Construction Engineering, and more.
+
+**B. PROFESSIONAL ELECTIVE COURSES (6 CREDITS)**
+
+- Options include Advanced Engineering Mathematics, Engineering Project Management, Bridge Design, and many more.
+
+**C. FREE ELECTIVE COURSES (6 CREDITS)**
+
+**CONTACT INFORMATION**
+
+- **Head of Civil Engineering Program**: Asst. Prof. Wisit Youyongwatana
+  - Email: wisit@rsu.ac.th
+- **Program Coordinator**: Khun Pong
+  - Email: nantanat.p@rsu.ac.th
+
+For further details, please contact the provided email addresses.
+
+**DESIGN PROGRAM OVERVIEW**
+
+- **Award**: Bachelor of Fine Arts in Design (College of Design)
+- **Length**: 4 years
+- **Semester Commencement**: June (Summer), August (1st Semester), January (2nd Semester)
+- **Course Fees**: [Click here](link_to_fees)
+- **English Language Requirements**: 
+  - IELTS 5.5 or equivalent
+  - Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION/PURPOSE**
+
+- The Design department course focuses on nurturing students to be innovative in both ideas and designs.
+- Emphasizes the design thinking process based on rationality.
+- Allows students to customize their courses by choosing from Interior Design, Fashion Design, Communication Arts, and Photographic departments to suit their aptitudes.
+- Aims to develop designers and entrepreneurs who are willing to challenge traditional designs and apply their knowledge in real work environments.
+
+**EMPLOYMENT OUTCOMES**
+
+- Opportunities include roles as Designers, Product Designers, Entrepreneurs, and related design careers.
+
+**INTERNATIONAL & PROFESSIONAL EXPERIENCES**
+
+- Opportunities for student exchange, internships abroad, study tours, field trips, cooperative studies, professional training, and workshops in collaboration with RSU’s partner universities, professional associations, and industries.
+
+**WHAT STUDENTS WILL LEARN**
+
+- Practice the Design Thinking Process, an essential skill for every profession.
+- Learn to combine design with other disciplines to generate unique ideas and approaches.
+- Emphasize hands-on learning to build a strong foundation of knowledge and skills applicable in real work environments.
+- Focus on fostering an entrepreneurial mindset.
+
+**PREPARATION FOR STUDENTS**
+
+- Students should possess reasonable thinking and research skills. Further details may be provided upon inquiry.
+
+For more information, please contact the Design department.
+
+**FASHION DESIGN PROGRAM OVERVIEW**
+
+- **Award**: Bachelor of Fine Arts
+- **Length**: 4 years
+- **Semester Commencement**: June (Summer), August (1st Semester), January (2nd Semester)
+- **Course Fees**: [Click here](link_to_fees)
+
+*Note: Excluding Foundation English and Student activity fees at RIC. In Year 2 / 3 / 4, where students study professional courses at Faculty of Art and Design, students will pay “Thai program fees” per credit as per the policy approved by VP Academic Affairs (Promotional condition for AY2018 only)*
+
+- **English Language Requirements**: 
+  - IELTS 5.5 or equivalent
+  - Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION/PURPOSE**
+
+- The Department of Fashion Design aims to cultivate fashion designers who are leaders in creativity.
+- Focuses on contemporary design with a comprehensive understanding and skills in crafting intricate details.
+- Emphasizes exploration of innovative designs through research and experimentation with new materials and techniques.
+- Covers various aspects of fashion including high fashion, ready-to-wear, fashion trends, and fashion business.
+
+**PLEDGE**
+
+- Aligned with the University's mission to create a better society.
+
+**VISION**
+
+- Aims for top-tier standards with a focus on quality and international competitiveness.
+- Provides excellent teaching based on leadership and career readiness.
+- Graduates are prepared to meet the needs of the fashion industry.
+
+**EMPLOYMENT OUTCOMES**
+
+Graduates may pursue careers in various roles including:
+
+- Fashion Designer
+- Fashion Stylist
+- Textile Designer
+- Retail Buyer
+- Clothing/Textile Technologist
+- Fashion Marketing or PR Specialist
+- Fashion Journalist or Blogger
+- Fashion Product Manager
+- Fashion Trend Analyst
+- Magazine Journalist
+- Personal Stylist/Shopper
+- Fashion Show Organizer
+- Fashion Studio Owner
+- Pattern Maker
+- Accessories Designer
+- Costume Designer
+- Make-up Artist
+- Retail Manager / Retail Merchandiser
+- Textile Buyer
+- Visual Merchandiser
+- Online Merchandiser
+- Event Manager
+- Jewellery Designer
+- Public Relations Officer
+
+For further academic inquiries, please contact:
+
+- **Head of Department**: Aj. Laddawan Sarapat
+  - Email: laddawan.s@rsu.ac.th
+- **Program Coordinator**: Khun Namkhang
+  - Email: thanyasorn.m@rsu.ac.th
+
+**INTERIOR DESIGN PROGRAM OVERVIEW**
+
+- **Award**: Bachelor of Fine Arts
+- **Length**: 4 years
+- **Semester Commencement**: August and January Semesters
+- **Course Fees**: 568,200 BAHT
+- **English Language Requirements**: 
+  - IELTS 5.5 or equivalent
+  - Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION/PURPOSE**
+
+- The Department of Interior Design aims to nurture creativity among learners, empowering them to drive the learning and design processes.
+- Develops a contemporary curriculum focusing on analytical thinking, problem-solving skills, and creative solutions tailored to user needs and space utilization.
+- Considers the role of designers in sustainable design and environmental considerations.
+
+**EMPLOYMENT OUTCOMES**
+
+Graduates may pursue careers in various roles including:
+
+- Interior Designer
+- Interior Design Consultant
+- Design Researcher
+- Furniture Designer
+- Interior Product Designer
+- Lighting Designer
+- Event and Exhibition Designer
+- Prop Designer
+- Set Designer
+- Interior Design Stylist
+- Interior Visualizer
+- Material Supervisor
+- Project Manager
+- Construction Manager
+- Site Supervisor
+- Interior Contractor
+- Window Display Designer
+- Interior Studio Owner
+
+For academic inquiries and application, please contact:
+
+- **Head of Department**: Dr. Sutarnthip Ruengprapavut
+  - Email: sutarnthip.r@rsu.ac.th
+- **Coordinator**: Asst. Prof Tanett Pongtheerat
+  - Email: tanett.p@rsu.ac.th
+
+
+BIOMEDICAL SCIENCE
+AWARD
+
+  Bachelor of Science (Biomedical Science); B.Sc. (Biomedical Science)
+
+LENGTH IN YEARS
+
+  4 years
+
+SEMESTER OF COMMENCEMENT
+
+  August (1st Semester) January (2nd Semester)
+
+COURSE FEES IN BAHT
+Click here
+ENGLISH LANGUAGE REQUIREMENTS
+
+  Pass RIC English Language Proficiency Test; or PossessTOEFL 500 or IELTS 5.5 or SAT1 950 score
+
+COURSE DESCRIPTION/PURPOSE
+
+  Biomedical sciences provide an understanding of human body and the way it works. These involve areas such as Anatomy, Biochemistry, Ergonomics, Microbiology, Pathology, Pharmacology and Physiology. All students will be trained not only in biomedical research skill but also basic and advance knowledge in biomedical field. Graduates are prepared for pursue professions allied with biomedical research. The curriculum aims to produce flexible and well informed graduates with specific training in a wide range of biomedical applications of the basic sciences. The course will provide strategic training in the fundamentals of biomedical science and a unique blend of genome science, biotechnology and bioinformatics.
+
+EMPLOYMENT OUTCOMES
+
+  Completion of the course will provide the graduate with the skills to enter a vast range of health-related industries including: Medical Research; Physiotherapy; Microbiology; Health Informatics; Occupational Health and Safety; Pharmaceutical Industry; Laboratory Technology.
+
+APPLY NOW
+FOR ACADEMIC ENQUIRY PLEASE CONTACT HEAD OF DEPARTMENT BELOW
+Full name	E-mail
+Dr. Sutarnthip Ruengprapavut	sutarnthip.r@rsu.ac.th
+Coordinator: 	
+Asst. Prof Tanett Pongtheerat	tanett.p@rsu.ac.th
+COURSE STRUCTURE
+Credit requirements - 130 credits
+
+  GENERAL EDUCATION COURSES (30 CREDITS)
+
+  I. Humanities and Social Sciences (9 credits)
+  II. Sciences and Mathematics (3 credits)
+  III. Languages (15 credits)
+  IV. Interdisciplinary and Physical Education (3 credits)
+
+  AREA COURSES (94 CREDITS)
+  1) BASIC SCIENCE COURSES (17 CREDITS)
+
+  2) MAJOR COURSES (77 CREDITS)
+
+  2.1 REQUIRED COURSES (65 CREDITS)
+  2.1 ELECTIVE MAJOR COURSES (12 CREDITS)
+
+  FREE ELECTIVE COURSES (6 CREDITS)
+
+  A) BASIC SCIENCE COUSES (17 CREDITS)
+
+Code	Course Title	Credit
+BIO 131	General Biology	3 (3-0-6)
+BIO 132	General Biology Laboratory	1 (0-3-2)
+CHM 129 	Introduction to Chemistry	4 (3-3-8)
+CHM 233 	Analytical Chemistry	3 (2-3-6)
+MAT 141	Introduction to Statistics	3 (3-0-6)
+PHY 135	Life Science Physics	3 (2-3-6)
+
+  B) REQUIRED COURSES (65 CREDITS)
+
+Code	Course Title	Credit
+ANA 100	Basic Anatomy	3 (2-3-6)
+BCH 201	Basic Biochemistry	4 (3-3-8)
+BIO 132	General Biology Laboratory	2 (1-3-4)
+BMS102	Basic Knowledge in Biomedical Sciences 	3 (2-3-6)
+BMS 211	Biomedical Instrumentation and International Organization	3 (2-3-6)
+BMS 214	Ergonomics	3 (3-0-6)
+BMS 220	Medical Science Organization and Management	3 (3-0-6)
+BMS 301	Scientific Communication	3 (3-0-6)
+BMS 322	Genetic Engineering	3 (2-3-6)
+BMS 323	Bioinformatics	2 (1-3-4)
+BMS 325	Research Methodology	2 (1-3-4)
+BMS 326	Medical Science Innovations	3 (1-6-5)
+BMS 327	Medical and public Health Social Sciences 	3 (2-3-6)
+BMS 328 	Special Techniques in medical Sciences 	3 (2-3-6)
+BMS 341	Seminar I	1 (0-3-2)
+BMS 400	Integrated Medical Sciences	3 (0-9-5)
+BMS 417	Practical Training	2 (0-15-8)
+BMS 418	Toxicology	3 (2-3-6)
+BMS 442	Seminar II	1 (0-3-2)
+BMS 495	Senior Project	4 (0-12-6)
+BMS 497	Cooperative Education	6 (0-35-18)
+MIC 305	Microbiology and Immunology	4 (3-3-8)
+PAT 203 	Basic Pathology	3 (3-0-6)
+PMC 331	Basic Pharmacology	3 (3-0-6)
+PSO 100	Basic Pathology	3 (3-0-6)
+PSO 102	Basic Pathology Laboratory	1 (0-3-2)
+
+  C) ELECTIVE MAJOR COURSES (12 CREDITS)
+
+  Students can select from list of course in each unit.
+
+  Anatomy Unit
+
+Code	Course Title	Credit
+BMS 401	Human Anatomy I	3 (2-3-6)
+BMS 402	Human Anatomy II	3 (2-3-6)
+BMS 403	Microscopic Anatomy	3 (2-3-6)
+BMS 404	Neuroscience	3 (2-3-6)
+
+  Biochemistry Unit
+
+Code	Course Title	Credit
+BMS 405	Molecular Biology	3 (2-3-6)
+BMS 406	Enzyme Technology	3 (3-0-6)
+BMS 407	Protein Technology	3 (2-3-6)
+BMS 408	Applied Biochemistry	3 (3-0-6)
+
+  Physiology Unit
+
+Code	Course Title	Credit
+BMS 215	Pathophysiology of Human Diseases	3 (3-0-6)
+BMS 409	Exercise in physiology	3 (3-0-6)
+BMS 410	Current Topics in Physiology	2 (2-0-4)
+BMS 430	Applied Biochemistry	2 (1-3-4)
+BMS 431	Physiology Instrumentations and Techniques 	2 (1-3-4)
+Code	Course Title	Credit
+BMS 319	Applied Microbiology	3 (2-3-6)
+BMS 320	Immunology	3 (2-3-6)
+BMS 432	Medical Virology and Mycology	3 (2-3-6)
+BMS 433	Medical Parasitology and Vectors	3 (2-3-6)
+
+  Pathobiology Unit
+
+Code	Course Title	Credit
+BMS 414	Forensic Medical	3 (3-0-6)
+BMS 434	Tropical Pathology	3 (3-0-6)
+BMS 435	Systemic Pathology	3 (2-3-6)
+BMS 436	Hematology	3 (2-3-6)
+
+  Pharmacology and toxicology Unit
+
+Code	Course Title	Credit
+BMS 411	Pharmaceutical Biotechnology	3 (2-3-6)
+BMS 437	Clinical Pharmacology	3 (2-3-6)
+BMS 438	Clinical Toxicology	3 (2-3-6)
+BMS 439	Research Techniques in Pharmacology and Toxicology	3 (1-6-5)
+
+  Ergonomic Unit
+
+Code	Course Title	Credit
+BMS 421	Occupational Ergonomic	3 (2-3-6)
+BMS 440	Practical Ergonomic	3 (0-9-5)
+BMS 441	Bio mechanics	3 (3-0-6)
+
+**BIOMEDICAL ENGINEERING PROGRAM OVERVIEW**
+
+- **Award**: Bachelor of Engineering (Biomedical Engineering)
+- **Length**: 4 years
+- **Semester Commencement**: June, August, and January Semesters
+- **Course Fees**: [Click here](link_to_fees)
+- **English Language Requirements**: 
+- IELTS 5.5 or equivalent
+- Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION/PURPOSE**
+
+- Biomedical Engineering integrates engineering with medical knowledge to improve healthcare through technology.
+- Focuses on advancements such as diagnostic devices, medical robotics, and biomaterials.
+- Integrates AI, machine learning, and Big Data in healthcare solutions.
+- Encourages participation in exchange programs and cooperative education.
+
+**KNOWLEDGE, SKILLS AND COMPETENCIES OF GRADUATES**
+
+Graduates will:
+
+1. Have skills in research and development, potentially becoming business owners.
+2. Understand principles of biomedical engineering for research, production, and quality control.
+3. Conduct maintenance, repair, and application of medical devices.
+4. Manage procurement, distribution, and consultancy projects in biomedical engineering.
+5. Pursue postgraduate studies.
+6. Exhibit good ethics, academic competency, and professional readiness.
+
+**POTENTIAL CAREER PATHS FOR GRADUATES**
+
+Graduates may work as:
+
+1. Biomedical Engineer or Clinical Engineer
+2. Service Engineer for medical devices
+3. Product Specialist for medical device businesses
+4. Research and Development specialist in government or private sectors
+5. Medical Device Sales Representative
+6. Entrepreneurs in medical equipment or biomedical engineering
+7. Pursue higher education
+
+**FIELDS OF RESEARCH AND INNOVATION IN BIOMEDICAL ENGINEERING**
+
+Areas of focus include:
+
+1. Biomedical Instrumentation
+2. Medical Signal and Image Processing
+3. Artificial Intelligence and Medical Robotics
+4. Clinical Engineering
+5. Biophysics and Medical Optics
+6. Medical Material and Tissue Engineering
+7. Smart Innovation and Rehabilitation for the Elderly
+8. Information System for Medical Management
+9. Metaverse in Healthcare and Medical Applications
+
+For academic inquiries, please contact:
+
+- **Head of Department**: Assist.Prof.Dr.Sani Boonyagul
+- Email: sani@rsu.ac.th
+- **Coordinator**: Khun Pakit (Therng)
+- Email: pakit.p@rsu.ac.th
+
+Visit the faculty website for more details.
+
+**COMPUTER SCIENCE PROGRAM OVERVIEW**
+
+- **Award**: Bachelor of Science (Computer Science)
+- **Distinctive Elements**:
+  - Cutting-edge curriculum covering artificial intelligence, machine learning, blockchain, image processing, and computer vision.
+  - State-of-the-art facilities including computer labs, software, and hardware.
+  - Emphasis on practical experience through coding projects, internships, and a senior project.
+- **Length**: 3 years
+- **Semester Commencement**: June, August, and January Semesters
+- **Course Fees**: 545,700 Baht
+- **English Language Requirements**: 
+  - IELTS 5.5 or equivalent
+  - Passed the Rangsit University English Language Proficiency Test
+
+**COURSE DESCRIPTION**
+
+The Computer Science program at Rangsit University prepares students for careers in digital technology. It offers theoretical foundations and practical applications, with elective courses in emerging fields like machine learning, data mining, and web development.
+
+**POTENTIAL CAREER PATHS FOR GRADUATES**
+
+Graduates can pursue various roles such as:
+
+- Software Developer/Engineer
+- Data Scientist/Analyst
+- Database Administrator (DBA)
+- Artificial Intelligence (AI) Engineer/Researcher
+- DevOps Engineer
+- IT Project Manager
+- Front-End or Back-End Web Developer
+
+**COURSE STRUCTURE**
+
+- **Credit Requirements**: 126 credits
+- **General Education**: 30 credits
+- **Core Courses**: 90 credits
+  - Professional Foundation Courses: 18 credits
+  - Major Courses: 72 credits (Required: 57 credits, Elective: 15 credits)
+- **Free Elective Courses**: 6 credits
+
+Here's the breakdown of the Computer Science program courses structured over three years:
+
+**1ST YEAR - 1st Semester**
+- DIT 101: Programming I - 3 credits
+- MAT 133: Calculus 1 - 3 credits
+- MAT 252: Probability and Statistics - 3 credits
+- ENL 125: English for Global Exploration - 3 credits
+- XXX xxx: General Education - 3 credits
+- RSU 112: Sports for Health - 1 credit
+- RSU 113: Digital Literacy - 2 credits
+Total: 18 credits
+
+**1ST YEAR - 2nd Semester**
+- DIT 102: Programming II - 3 credits
+- ENL 126: English in TED - Technology, Entertainment and Design - 3 credits
+- MAT 221: Discrete Mathematics - 3 credits
+- MAT 241: Linear Algebra - 3 credits
+- XXX xxx: General Education - 3 credits
+- XXX xxx: General Education - 3 credits
+Total: 18 credits
+
+**1ST YEAR - Summer Semester**
+- XXX xxx: General Education - 3 credits
+- XXX xxx: General Education - 3 credits
+- XXX xxx: General Education - 3 credits
+Total: 9 credits
+
+**2ND YEAR - 1st Semester**
+- CSC 250: Object-Oriented Design and Development - 3 credits
+- CSC 331: Computer Architecture and Organization - 3 credits
+- CSC 360: Data Structure and Algorithms - 3 credits
+- CSC 362: Database Systems - 3 credits
+- CSC 481: System Analysis and Design - 3 credits
+- XXX xxx: General Education - 3 credits
+Total: 18 credits
+
+**2ND YEAR - 2nd Semester**
+- CSC 350: Web Programming - 3 credits
+- CSC 420: Operating Systems - 3 credits
+- CSC 431: Computer Network Systems - 3 credits
+- CSC 454: Programming Language - 3 credits
+- CSC xxx: Computer Science Elective I - 3 credits
+- CSC xxx: Computer Science Elective II - 3 credits
+Total: 18 credits
+
+**2ND YEAR - Summer Semester**
+- XXX xxx: Free Elective I - 3 credits
+- XXX xxx: Free Elective II - 3 credits
+- CSC xxx: Computer Science Elective III - 3 credits
+Total: 9 credits
+
+**3RD YEAR - 1st Semester**
+- CSC 475: Big Data Analytics - 3 credits
+- CSC 485: Introduction to Research Methodology for Computer Science - 3 credits
+- CSC 487: Laws and Ethics in Information Technology - 3 credits
+- CSC 472: Artificial Intelligence - 3 credits
+- CSC xxx: Computer Science Elective IV - 3 credits
+- CSC xxx: Computer Science Elective V - 3 credits
+Total: 18 credits
+
+**3RD YEAR - 2nd Semester**
+- CSC 451: Computer Graphics - 3 credits
+- CSC 480: Software Engineering - 3 credits
+- CSC 492: Computer Science Project Programming - 3 credits
+Total: 9 credits
+
+**3RD YEAR - Summer Semester**
+- DIT 498*: Co-operative Education (Internship) - 9 credits
+Total: 9 credits
+
+Total credits required: 126 credits
+
+For academic inquiries, please contact:
+
+- **Head of Department**: Dr. Supanit Angsirikul
+  - Email: supanit.a@rsu.ac.th
+
+
+*Digital Innovation*
+**Degree Awarded**: Bachelor of Science (Digital Innovation)
+
+**Unique Features of the Digital Innovation Program:**
+Tailored Curriculum: The program focuses on Artificial Intelligence (AI) to meet industry demands and future trends.
+Hands-On Learning: Practical experience complements theoretical knowledge, allowing students to tackle real-world AI challenges.
+Diverse Skill Development: Alongside AI, students gain expertise in Cyber Security, Internet of Things (IoT), Fullstack Development, and UX/UI Design.
+Efficient Duration: The condensed three-year structure ensures a comprehensive education, enabling graduates to enter the workforce sooner.
+
+**Program Duration**: 2.5 years
+
+**Semester Start**: June, August, and January
+
+**English Language Requirements**: IELTS 5.5 or equivalent
+
+**Course Fees**: 574,600 Baht
+
+**Program Description**:
+The Digital Innovation program at Rangsit University provides a three-year journey into digital technology, with a focus on Artificial Intelligence (AI). Beginning with fundamental AI concepts and programming, the curriculum advances to advanced data analytics and practical AI applications. Essential modules covering Cyber Security, Internet of Things (IoT), Fullstack Development, and UX/UI Design are also integrated.
+
+**Career Opportunities**:
+- AI Specialist
+- Data Analyst
+- Cyber Security Expert
+- IoT Developer/Engineer
+- Fullstack Developer
+- UX/UI Designer
+- Digital Consultant
+
+**Course Structure**:
+The program consists of 126 credits, including general education, core courses, professional foundation courses, major courses, and free elective courses. The courses are structured over semesters and cover a range of topics from language and general education to specialized digital innovation electives.
+
+Here's the breakdown of the Digital Innovation program courses structured
+
+**1ST YEAR - Summer Semester**
+- XXX xxx: English Language Group 1 - 3 credits
+- XXX xxx: International Language - 3 credits
+- RSU 112: Sports for Health - 1 credit
+- RSU 113: Digital Literacy - 2 credits
+Total: 9 credits
+
+**1ST YEAR - 1st Semester**
+- XXX xxx: English Language Group 2 - 3 credits
+- XXX xxx: General Education - 3 credits
+- DIT 101: Programming I - 3 credits
+- DIT 103: Introduction to Information Systems - 3 credits
+- DIT 105: Science and Innovative Startup - 3 credits
+- DIT 107: Creative Thinking and Writing - 3 credits
+- DIT 109: Web Design and Development - 3 credits
+Total: 21 credits
+
+**1ST YEAR - 2nd Semester**
+- XXX xxx: International Language - 3 credits
+- XXX xxx: General Education & International Experience - 3 credits
+- DIT 102: Programming II - 3 credits
+- DIT 104: Business Process for Information Systems - 3 credits
+- DIT 106: Foundation of Mathematics for Investment - 3 credits
+- DIT 108: Infographic Design - 3 credits
+- DIT 110: Foundation of Graphics Design - 3 credits
+Total: 21 credits
+
+**2ND YEAR - Summer Semester**
+- XXX xxx: General Education - 3 credits
+- XXX xxx: General Education - 3 credits
+- XXX xxx: General Education - 3 credits
+Total: 9 credits
+
+**2ND YEAR - 1st Semester**
+- DIT 201: Database Systems - 3 credits
+- DIT 202: Information System Analysis and Design - 3 credits
+- DIT 203: Data Communication and Network - 3 credits
+- DIT 204: Information System Project Management - 3 credits
+- DIT 205: Web Application Development - 3 credits
+- DIT xxx: Digital Innovation Elective 1 - 3 credits
+- DIT xxx: Digital Innovation Elective 2 - 3 credits
+Total: 21 credits
+
+**2ND YEAR - 2nd Semester**
+- DIT 206: Database Management Systems for Organization - 3 credits
+- DIT 207: Application Development for Use with Mobile Devices - 3 credits
+- DIT 208: Internet of Things - 3 credits
+- DIT 210: Information System Security - 3 credits
+- DIT xxx: Digital Innovation Elective 3 - 3 credits
+- DIT xxx: Digital Innovation Elective 4 - 3 credits
+Total: 18 credits
+
+**3RD YEAR - Summer Semester**
+- XXX xxx: Free Elective 1 - 3 credits
+- XXX xxx: Free Elective 2 - 3 credits
+Total: 6 credits
+
+**3RD YEAR - 1st Semester**
+- DIT 209: Research Technology in Digital Innovation - 3 credits
+- DIT xxx: Digital Innovation Elective 5 - 3 credits
+- DIT xxx: Digital Innovation Elective 6 - 3 credits
+- DIT xxx: Digital Innovation Elective 7 - 3 credits
+Total: 12 credits
+
+**3RD YEAR - 2nd Semester**
+- DIT 498*: Co-operative Education (Internship) - 9 credits
+Total: 9 credits
+
+*Students are required to do an internship for 4 months.
+
+Total credits required: 126 credits
+
+**For Academic Inquiries, Contact**:
+Name: Asst. Prof. Dr. Karn Yongsiriwit
+Email: karn.y@rsu.ac.th
+
+**Frequently Asked Questions (FAQ)**
+
+**Admissions Requirements:**
+
+- **What are the admissions requirements?**
+  The academic entry requirement is a high school diploma or equivalent and an IELTS score of 5 or equivalent.
+
+- **What if I don’t have any recent IELTS scores?**
+  Students without recent IELTS scores can take a free English Placement Test upon arrival at the university. If their English level is below the minimum requirement, they'll need to take English subjects before starting the program.
+
+- **How long does the admissions process take?**
+  Once the completed application file is received, including all required materials, it usually takes a few days to a week for application processing, review, and sending of the Letter of Acceptance via email. A non-refundable partial payment of 30% of tuition fees for the semester is required before the visa supporting document is granted.
+
+- **Where do I get my visa and how long does it take to have it?**
+  Once the partial payment is received, the university processes the visa supporting document and sends it via email or post. Students can then lodge their visa application at the nearest Thai Embassy or consulate, which may take 1 week to 1 month depending on the processing requirements.
+
+- **What documents must I present to get my visa?**
+  Students receive a scan copy of the visa issuance letter via email, and the original documents are sent by EMS to the specified postal address. These documents must be submitted to the Thai embassy or consulate for visa approval.
+
+- **What if I studied before from another college or university?**
+  Credit transfer is available for completed units or subjects from other institutions, with a maximum transfer of 75% of total credits for the current program.
+
+- **Do you require SAT/ACT scores?**
+  The university does not require SAT/ACT scores for admission.
+
+- **Do you require letters of reference?**
+  Letters of reference are not required for the admissions process.
+
+- **How early should a student apply?**
+  It's recommended to apply at least 2 months before the semester starts. Intakes are available in Summer, 1st Semester (August to December), and 2nd Semester (January to May).
+
+- **What are your coursework requirements?**
+  Visit the Programs section of the website for course requirements.
+
+- **How much does it cost to attend the program?**
+  Current estimated tuition fees can be found in the Tuition section of the website.
+
+**Next Steps to Enrollment:**
+
+- **What is the next step once I receive my visa?**
+  Students can book their air tickets to Thailand and start booking accommodation and airport pick-up from the website.
+
+- **Are students required to live on campus?**
+  Students are not required to live on campus initially. They are booked into off-campus apartments reserved by the International Service Center, which are easily accessible by foot.
+
+- **Can I stay inside the campus dormitory?**
+  On-campus accommodation reservation must be made at least 2 months in advance due to limited availability. Students can initially stay at off-campus dormitories provided and then reserve on-campus accommodation once settled.
+
+**Scholarships:**
+
+- **How do students apply for scholarships?**
+  To qualify for scholarships, students must complete the online scholarship application form for the appropriate intake and academic year and attach relevant documents. Upon receiving the application, students are notified of the schedule for a Skype interview.
+
+- **How do you determine scholarship eligibility?**
+  Scholarship applicants are reviewed and interviewed by the scholarship committee. Factors considered include GPA, coursework, test scores, extracurricular activities, and community involvement.
+
+**Get Connected:**
+
+- **How do I contact the university if I need more information?**
+  Students can email rsuip@rsu.ac.th, call +662 997 2200 ext. 4012, 4019, or connect via social media platforms like Facebook, Line, Instagram, and Twitter, all available on the website.
 `;
 
 module.exports = data;

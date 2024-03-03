@@ -1,27 +1,63 @@
+const PORT = 3000;
+const API_KEY = process.env.API_KEY;
+const initialHistory = require("./initialHistory");
 const express = require("express");
 const cors = require("cors");
-const getChatInstance = require("./chat");
+const {
+  GoogleGenerativeAI,
+  HarmCategory,
+  HarmBlockThreshold,
+} = require("@google/generative-ai");
+require("dotenv").config();
 
 const app = express();
-const port = 3000;
 
 app.use(cors());
+app.use(express.json());
 
-app.get("/", async (req, res) => {
-  try {
-    const { prompt } = req.query;
-    if (!prompt) {
-      return res.status(400).json({ error: "Prompt parameter is required" });
-    }
-    const chat = await getChatInstance();
-    const result = await chat.sendMessage(prompt);
-    const response = result.response;
-    res.json(response.text());
-  } catch (error) {
-    res.status(500).json({ error: "Internal Server Error" });
-  }
+const genAI = new GoogleGenerativeAI(API_KEY);
+
+const generationConfig = {
+  temperature: 0.5,
+};
+
+const safetySettings = [
+  {
+    category: HarmCategory.HARM_CATEGORY_HARASSMENT,
+    threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+  },
+  {
+    category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+    threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+  },
+  {
+    category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+    threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+  },
+  {
+    category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+    threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE,
+  },
+];
+
+app.post("/chat", async (req, res) => {
+  const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+
+  const history = [...initialHistory, ...req.body.history];
+
+  const chat = model.startChat({
+    generationConfig,
+    safetySettings,
+    history,
+  });
+  const prompt = req.body.prompt;
+
+  const result = await chat.sendMessage(prompt);
+  const response = await result.response;
+  const chat_response = response.text();
+  res.send(chat_response);
 });
 
-app.listen(port, () => {
-  console.log(`App is running on port: ${port}`);
+app.listen(PORT, () => {
+  console.log(`Listening on port ${PORT}`);
 });
